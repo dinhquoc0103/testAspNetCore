@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/testAspNetCore/.vs/testAspNetCore
+/testAspNetCore/bin/Debug/netcoreapp3.1
+/testAspNetCore/obj
